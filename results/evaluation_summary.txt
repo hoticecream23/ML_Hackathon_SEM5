@@ -1,0 +1,26 @@
+============================================================
+HANGMAN AGENT EVALUATION RESULTS
+============================================================
+
+Number of Games:        2000
+Total Wins:             264
+Success Rate:           13.20%
+
+Total Wrong Guesses:    11534
+Avg Wrong Guesses:      5.77
+
+Total Repeated Guesses: 0
+Avg Repeated Guesses:   0.00
+
+Avg Total Guesses:      11.24
+
+============================================================
+FINAL SCORE: -57406.00
+============================================================
+
+Score Calculation:
+  Success Rate × 2000:         +264.00
+  Total Wrong Guesses × 5:     -57670.00
+  Total Repeated Guesses × 2:  -0.00
+  ========================================
+  Final Score:                  -57406.00

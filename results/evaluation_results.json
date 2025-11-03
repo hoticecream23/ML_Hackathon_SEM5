@@ -1,0 +1,11 @@
+{
+    "num_games": 2000,
+    "total_wins": 264,
+    "success_rate": 0.132,
+    "total_wrong_guesses": 11534,
+    "avg_wrong_guesses": 5.767,
+    "total_repeated_guesses": 0,
+    "avg_repeated_guesses": 0.0,
+    "avg_total_guesses": 11.2435,
+    "final_score": -57406.0
+}

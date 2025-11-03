@@ -1,0 +1,14 @@
+{
+    "num_episodes": 5000,
+    "state_size": 593,
+    "action_size": 26,
+    "learning_rate": 0.0005,
+    "gamma": 0.99,
+    "epsilon_start": 1.0,
+    "epsilon_end": 0.05,
+    "epsilon_decay": 0.997,
+    "batch_size": 64,
+    "pretrain_epochs": 10,
+    "train_words": 39983,
+    "test_words": 9996
+}
